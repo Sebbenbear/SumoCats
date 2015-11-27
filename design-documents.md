@@ -16,3 +16,6 @@ This document contains links to the detailed descriptions of the game’s mechan
 
 
 ### Use Cases
+
+
+how they will work, how they will affect the player experience, and how they will affect the gameplay.
